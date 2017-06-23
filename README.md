@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](flicksterdemo.gif)
+![Walkthrough](flicksterwalkthrough.gif)
 
 ## Notes
 

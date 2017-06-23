@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had challenges with my timing, I wish that I was able to implement more features like images and popularity on the movie details page, and embeded trailers when you click on the movie images. However, I can and will work on these features at a later date.
 
 ## Open-source libraries used
 
